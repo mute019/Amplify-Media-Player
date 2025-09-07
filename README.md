@@ -1,7 +1,7 @@
 # Amplify-Media-Player
 A media player created using Gstreamer Framework
 
-Link to the configuration repo: https://github.com/mute019/Gstreamer-and-GTK-Eclipse-config-#
+Link to the repo which I created to configure the Eclipse Build System: https://github.com/mute019/Gstreamer-and-GTK-Eclipse-config-#
 (It also contains some redundant library and include directory detail will try to update them when I get some time.
 
 Credits (My teammates who made this project possible):
