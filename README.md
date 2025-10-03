@@ -20,4 +20,4 @@ Credits (My teammates who made this project possible):
 
 7. Pratisksha
    
-8. (Another person who joined late into the Project forgot ask her name, need to ask my teammates)
+8. (Another Person Joined late)
